@@ -15,7 +15,8 @@ To design and implement a **production-grade data transformation pipeline** usin
 
 ## 📌 Architecture Overview
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0876f781-73b5-44ed-adbc-a0c017a6aa9e)
+
 
 
 ### Layered Breakdown:
