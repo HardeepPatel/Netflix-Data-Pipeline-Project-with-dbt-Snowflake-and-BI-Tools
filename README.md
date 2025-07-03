@@ -15,7 +15,8 @@ To design and implement a **production-grade data transformation pipeline** usin
 
 ## 📌 Architecture Overview
 
-![Netflix Architecture](./a6a45663-4467-4077-93e7-1d80090aaeb3.png)
+![Uploading image.png…]()
+
 
 ### Layered Breakdown:
 1. **Raw Layer**: Data from CSV loaded into Snowflake via Amazon S3
